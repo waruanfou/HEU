@@ -1,0 +1,7 @@
+{id:0,name:'默认订阅',version:178,author:'lisonge',supportUri:'https://github.com/gkd-kit/subscription',checkUpdateUrl:'https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.version.json',
+
+
+apps:[
+{id:'null',name:'com.lynx.tasm.ui.image.FlattenUIImage',groups:[{key:0,name:'热榜查看详情广告',rules:'[name="com.lynx.tasm.ui.image.FlattenUIImage"][clickable=true]',snapshotUrls:'https://i.gkd.li/import/13787366'}
+
+]}]}
