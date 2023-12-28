@@ -1,4 +1,4 @@
-{id:0,name:'默认订阅',version:178,author:'lisonge',supportUri:'https://github.com/gkd-kit/subscription',checkUpdateUrl:'https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.version.json',
+{id:0,name:'个人测试',version:1,author:'HEU',supportUri:'https://github.com/gkd-kit/subscription',checkUpdateUrl:'https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.version.json',
 
 
 apps:[
