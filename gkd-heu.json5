@@ -1,0 +1,25 @@
+{
+    "id": "null",	
+    "name": "个人测试",	
+    "groups": 
+    [				
+        {			
+            "name": "热榜查看详情广告",			
+            "key": 1,			
+            "quickFind": true,			
+            "rules": 
+            [				
+                {					
+                    "matches": 
+                    [						
+                        "@[name="com.lynx.tasm.ui.image.FlattenUIImage"][clickable=true]"					
+                        ]				
+                        }			
+                        ],			
+                        "snapshotUrls": 
+                        [				
+                            "https://i.gkd.li/import/13787366"			
+                            ]		
+                            }			
+                            ]
+                            }

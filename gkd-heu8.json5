@@ -1,7 +1,0 @@
-{id:0,name:'个人测试',version:1,author:'HEU',
-
-
-apps:[
-{id:'null',name:'com.lynx.tasm.ui.image.FlattenUIImage',groups:[{key:0,name:'热榜查看详情广告',rules:'[name="com.lynx.tasm.ui.image.FlattenUIImage"][clickable=true]',snapshotUrls:'https://i.gkd.li/import/13787366'}
-
-]}]}
